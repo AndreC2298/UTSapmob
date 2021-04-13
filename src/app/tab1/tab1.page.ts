@@ -44,5 +44,8 @@ export class Tab1Page {
         nilai: this.Nilai
       });
     }
+    uploadFoto() {
+      
+    }
 
 }
