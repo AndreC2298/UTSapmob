@@ -1,0 +1,7 @@
+{
+  "name": "UTSapmob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
